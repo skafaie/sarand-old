@@ -1,0 +1,40 @@
+2023-08-02 15:16:38,719 [INFO ]	Sarand initialised: output=test/output2_1_1_1
+2023-08-02 15:16:38,720 [INFO ]	Starting analysis...
+2023-08-02 15:16:38,720 [INFO ]	Finding AMR genes in the assembly graph: /media/Data/PostDoc/Dalhousie/Work/Test2/Experiments/1_1_1/spade_output/assembly_graph_with_scaffolds.gfa
+2023-08-02 15:17:04,411 [INFO ]	Extracting neighborhood sequences with length = 1000
+2023-08-02 15:18:23,546 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_SHV-52_1000_2023-08-02_15-17.txt
+2023-08-02 15:34:24,269 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_TEM-126_1000_2023-08-02_15-18.txt
+2023-08-02 15:34:27,093 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_AAC6SS-Ib_1000_2023-08-02_15-34.txt
+2023-08-02 15:34:28,261 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_aadA23_1000_2023-08-02_15-34.txt
+2023-08-02 15:34:29,370 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_FosA5_1000_2023-08-02_15-34.txt
+2023-08-02 15:34:39,471 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_aadA12_1000_2023-08-02_15-34.txt
+2023-08-02 15:34:40,921 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_OXA-9_1000_2023-08-02_15-34.txt
+2023-08-02 15:35:28,565 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_APH3SS-Ia_1000_2023-08-02_15-34.txt
+2023-08-02 15:36:35,873 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_APH3SS-Ia_1000_2023-08-02_15-34.txt
+2023-08-02 15:36:36,965 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_mecR1_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:38,074 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_eptA_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:47,000 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_catI_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:48,085 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_mecI_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:50,371 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_sul2_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:51,558 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_ugd_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:52,637 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_ErmA_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:55,534 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_AAC6SS-Ib9_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:57,475 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_APH6-Id_1000_2023-08-02_15-36.txt
+2023-08-02 15:36:58,829 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_sul1_1000_2023-08-02_15-36.txt
+2023-08-02 15:37:00,019 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_mecA_1000_2023-08-02_15-36.txt
+2023-08-02 15:37:03,562 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_ANT2SSSS-Ia_1000_2023-08-02_15-37.txt
+2023-08-02 15:37:04,729 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_ANT9-Ia_1000_2023-08-02_15-37.txt
+2023-08-02 15:39:35,406 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_dfrA14_1000_2023-08-02_15-37.txt
+2023-08-02 15:39:36,498 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_tetM_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:37,793 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_AAC6SS-Ie-APH2SSSS-Ia_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:38,881 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_bacA_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:40,410 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_APH3SSSS-Ib_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:41,484 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_Escherichia_coli_ampC1_beta-lactamase_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:42,602 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_pmrF_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:43,772 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_Escherichia_coli_ampH_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:44,854 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_kdpE_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:46,836 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_ANT4SS-Ib_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:56,796 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_catII_from_Escherichia_coli_K-12_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:58,162 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_Staphylococcus_aureus_FosB_1000_2023-08-02_15-39.txt
+2023-08-02 15:39:59,343 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_Escherichia_coli_ampC_1000_2023-08-02_15-39.txt
+2023-08-02 15:40:00,425 [INFO ]	Extracted neighborhoods written to test/output2_1_1_1/sequences_info/sequences_info_1000/sequences/ng_sequences_Klebsiella_pneumoniae_OmpK37_1000_2023-08-02_15-39.txt
